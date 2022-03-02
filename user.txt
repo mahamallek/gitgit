@@ -1,2 +1,6 @@
 gestion user
+<<<<<<< HEAD
 gestion admin
+=======
+gestion categorie
+>>>>>>> user
